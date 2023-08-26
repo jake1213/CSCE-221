@@ -1,0 +1,28 @@
+Progress Updates
+1b.cpp:             Correct output, no memory leaks 
+2a.cpp:             Correct output, no memory leaks - Check fix           
+2b.cpp:             Correct output, no memory leaks          
+3a.cpp:             Correct output, no memory leaks - Check fix
+3b.cpp:             Correct output, no memory leaks
+4a.cpp:             Correct output, no memory leaks
+4b.cpp:             Correct output, no memory leaks
+6.cpp:              Correct output, no memory leaks
+7b.cpp:             Correct output, no memory leaks
+8b.cpp:             Correct output, no memory leaks
+9.cpp:              Check output, memory leaks
+Makefile:           Correct output, no memory leaks
+Psuedocode:         Complete - Notes, Question 6 answer, Psuedocode - Not finished: Instructions for Question 9 
+
+Description
+1b.cpp:             Initialize Pointer, Vector, and Linked List 
+2a.cpp:             Pointer         - Insertion Sort           
+2b.cpp:             Pointer         - Exchange Sort        
+3a.cpp:             Vector          - Selection Sort
+3b.cpp:             Vector          - Bubble Sort
+4a.cpp:             Linked List     - Insertion Sort
+4b.cpp:             Linked List     - Exchange Sort
+6.cpp:              Run Time        - 
+7b.cpp:             Linear Search   - Pointer, Vector, and Linked List
+8b.cpp:             Binary Search   - Pointer, Vector, and Linked List
+9.cpp:              Main Excercise  - 
+Makefile:           MakeFile        - Compiles Correctly
